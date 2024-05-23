@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Apoorv Dubey</h1>
+<img align="center" src="https://github.com/ApoorvDubey23/ApoorvDubey23/assets/132251091/ac48e261-5350-4e52-94f5-10882f945085">(https://github.com/ApoorvDubey23/ApoorvDubey23/assets/132251091/ac48e261-5350-4e52-94f5-10882f945085)</img>
+
 <h3 align="center">A passionate FullStack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorvdubey23&label=Profile%20views&color=0e75b6&style=flat" alt="apoorvdubey23" /> </p>
