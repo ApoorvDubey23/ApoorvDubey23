@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apoorv Dubey</h1>
-<img align="center" src="https://github.com/ApoorvDubey23/ApoorvDubey23/assets/132251091/ac48e261-5350-4e52-94f5-10882f945085"></img>
+<p align="center"><img align="center" src="https://github.com/ApoorvDubey23/ApoorvDubey23/assets/132251091/ac48e261-5350-4e52-94f5-10882f945085"></img></p>
 
 <h3 align="center">A passionate FullStack developer from India</h3>
 
